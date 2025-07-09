@@ -2023,7 +2023,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 943426340342614693, guid: e88443e65a8d042bc9e088f458992165, type: 3}
       propertyPath: m_text
-      value: Exploring Shipwrecks
+      value: Exploring marine relics
       objectReference: {fileID: 0}
     - target: {fileID: 2975093803437876401, guid: e88443e65a8d042bc9e088f458992165, type: 3}
       propertyPath: m_Name
@@ -3362,7 +3362,7 @@ PrefabInstance:
     - target: {fileID: 7457159945339302034, guid: e6333e629ba3a9e41b09e24be44ecbbc, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
       value: 
-      objectReference: {fileID: 2100000, guid: 1a3fbe946702e4830a2ebc4c759ce98a, type: 2}
+      objectReference: {fileID: 2100000, guid: cee2b6d4c48a54e28a79796bb19b026d, type: 2}
     - target: {fileID: 7457159945749638880, guid: e6333e629ba3a9e41b09e24be44ecbbc, type: 3}
       propertyPath: m_LocalScale.x
       value: 36.349426
